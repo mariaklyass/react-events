@@ -1,0 +1,10 @@
+.NumberItem {
+  display: flex;
+  gap: 10px;
+  font-size: 1.5rem;
+}
+
+.NumberItem button {
+  color: #423f43;
+  box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.05);
+}
